@@ -1,3 +1,5 @@
-1.Github on leht kus huvilised saavad tgeleda tarkvara arendamisega.
+1.Github on leht kus huvilised saavad tgeleda tarkvara arendamisega. Inimesed saavad siin projektidega koostööd teha, kontrollida koodi om asoftwares.
 githubi kasutavad väga palju erinevaid inimesi.
 inimesed kes on aastaid tegelenud tarkvara arendusega, githubis õpivad õpilased ka tarkvara arendust.
+
+githubi saaksin ma kasutada nii koolis kui kodus, enda tehtud koodi testimises ja arendamises.
