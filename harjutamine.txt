@@ -1,3 +1,6 @@
-1.Github on leht kus huvilised saavad tgeleda tarkvara arendamisega.
+1.Github on leht kus huvilised saavad tgeleda tarkvara arendamisega. Inimesed saavad siin projektidega koostööd teha, kontrollida koodi om asoftwares.
 githubi kasutavad väga palju erinevaid inimesi.
 inimesed kes on aastaid tegelenud tarkvara arendusega, githubis õpivad õpilased ka tarkvara arendust.
+
+githubi saaksin ma kasutada nii koolis kui kodus, enda tehtud koodi testimises ja arendamises.
+github asutati aastal 2008, githubi asutajad olid Chris Wanstrath, Tom Preston-Werner, Scott Chacon ja P. J. Hyett. Lehekülje enda arendamine hakkas aastal 2007, algselt avaldati github beta versioonina ja siis 2008 oli Githubi full release.
